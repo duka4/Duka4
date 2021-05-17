@@ -1,0 +1,35 @@
+p {    
+    font-style: italic;
+    color: indigo;
+}
+
+#id {color: lightcoral;
+
+}
+
+.class {font-variant: small-caps;
+
+}
+
+.body {opacity: 85%; 
+    
+    /* Hier gaat iets mis. 
+    .body intepreteert .css als alle hele .html bestand*/
+
+}
+
+.letter-spacing {letter-spacing: 3mm;
+
+}
+
+.content {text-underline-position: auto;
+}
+
+.span {font-size: 10mm;
+    
+}
+
+.box {background-color: wheat;
+
+}
+

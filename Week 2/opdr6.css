@@ -1,0 +1,12 @@
+.child-selector > p {color: blue;
+    
+}
+
+.adjacent-selector + p {color: green
+
+}
+
+p {color:crimson
+
+}
+
